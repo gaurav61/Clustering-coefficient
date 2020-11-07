@@ -11,7 +11,7 @@
 
   c(G) = 1/|V| * c(v) for all v∈V  <br />
   c(v) = δ(v)/T(v) <br />
-  T(v) = d(v)C2 <br />
+  T(v) = (d(v) * d(v)-1)/2 <br />
   where, <br />
   δ(v) = Number of triangles in the graph containing vertex v <br />
   T(v) = Number of wedges containing v <br />
