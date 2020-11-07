@@ -1,1 +1,1 @@
-# Clustering-coefficient
+# Clustering coefficient of graphs
